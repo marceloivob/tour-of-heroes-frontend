@@ -26,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 # tour-of-heroes-frontend
+## Quality of the Code
+
+[![DeepScan grade](https://deepscan.io/api/teams/20116/projects/23557/branches/717430/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=20116&pid=23557&bid=717430)
+
